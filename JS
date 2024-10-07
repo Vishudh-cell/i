@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>JS</title>
+</head>
+<body>
+<h1>I love JS</h1>
+</body>
+</html>
